@@ -26,17 +26,9 @@ Responsible for loading and managing all models and their associated logic. This
 
 ## Installation
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/multilingual-image-captioning.git
-   cd multilingual-image-captioning
-   ```
-
-   For Windows Command Prompt:
-   ```cmd
-   git clone https://github.com/your-username/multilingual-image-captioning.git
-   cd multilingual-image-captioning
-   ```
+1. **Download  the Repository**
+   
+   Download the repository manually and then navigate to the project folder in your terminal.
 
 2. **Set Up a Virtual Environment**
    Ensure you have Python installed (version 3.8 or later). Then, set up a virtual environment:
